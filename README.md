@@ -12,14 +12,14 @@
     
 - 🌱 what I'm Learning
   
-- Supervised Learning algorithms and their applications.
-- Practical machine learning workflows using scikit-learn.
+- Currently learning CNN
+- Practical implementation using tensorflow for creating deep learning model
   
 
 -👨‍💻 Technologies & Tools
 
 - **Programming Languages:** Python, SQL,js
-- **Libraries & Frameworks:** scikit-learn, pandas, numpy, matplotlib, seaborn
+- **Libraries & Frameworks:** scikit-learn, pandas, numpy, matplotlib, seaborn, tensorflow
 - **Tools:** Jupyter Notebook, Visual Studio
 
 - 📫 Get in Touch
