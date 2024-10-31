@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @prajunbudathoki
+- Hi, I’m @Prajun 👋
 
-  Welcome to my GitHub profile! I'm exploring the ML world with a passion for data science, building projects to showcase my skills and drive innovative solutions.
+  Passionate about deep learning, exploring neural networks & AI frontiers🤖.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajunbudathoki)](https://github.com/prajunbudathoki/github-readme-stats)
+- My stats ⭐
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajunbudathoki&show_icons=true&theme=dark)](https://github.com/prajunbudathoki/github-readme-stats&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajunbudathoki&layout=compact)
 
 - 📫 Get in Touch
   
